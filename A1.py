@@ -235,7 +235,7 @@ def astar(start, goal):
     # g cost which represent the cost from the start point to any node.
     gn = defaultdict(lambda: float("inf"))
     gn[start] = 0
-    print("grissel", gn[start])
+    
     # f function records the cost from start to n plus from n to the goal.
     fn = defaultdict(lambda: float("inf"))
     fn[start] = h(start)
