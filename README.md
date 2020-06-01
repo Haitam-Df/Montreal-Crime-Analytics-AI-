@@ -41,6 +41,11 @@ threshold: 70,
 -73.5508 45.493 => ending point
 
 * cellsize: 0.002,
+threshold: 90,
+-73.5875 45.5288 => starting point
+-73.5508 45.493 => ending point
+
+* cellsize: 0.002,
 threshold: 50,
 -73.58 45.51 => starting point
 -73.5631 45.5092 => ending point
