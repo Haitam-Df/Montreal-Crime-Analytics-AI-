@@ -225,7 +225,7 @@ def pathfinder(startingNode, current):
     return path
 
 def astar(start, goal):
-    # f cost which represent the cost from any node to the finishing goal.
+    # h cost which represent the cost from any node to the finishing goal. (Manhattan distance)
     def h(n):
         return abs(goal[0] - n[0]) + abs(goal[1] - n[1])
 
