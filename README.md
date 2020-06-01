@@ -2,7 +2,7 @@
 Haitam Daif - 40007112
 
 How to run the program:
-[] Start by entering the cell size for which you desire to display the graph for
+- [ ] Start by entering the cell size for which you desire to display the graph for
 [] Input a threshold size for which you desire the crime rates to be filtered for
 [] Input the start point coordinates from which you desire to start your search 
 [] Input the end point coordinates to which you desire to reach
